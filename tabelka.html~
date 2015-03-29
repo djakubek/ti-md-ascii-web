@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Porownanie notacji markdown vs asciidoc</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2" />
+</head>
+<body>
+<table border="1">
+	<tr><td>Funkcja</td><td>Markdown</td><td>AsciiDoc</td></tr>
+	<tr><td>Kursywa</td><td>*tekst* lub \_tekst_</td><td>_tekst_</td></tr>
+	<tr><td>POGRUBIENIE</td><td>**tekst** lub __tekst__</td><td>*tekst*</td></tr>
+	<tr><td>Podkreślenie</td><td>~~tekst~~</td><td>brak</td></tr>
+	<tr><td>Zacienienie</td><td>``tekst``</td><td>+tekst+</td></tr>
+	<tr><td>Nagłówek 0</td><td>brak</td><td>========</td></tr>
+	<tr><td>Nagłówek I</td><td>#</td><td>---------</td></tr>
+	<tr><td>Nagłówek II</td><td>##</td><td>~~~~~</td></tr>
+	<tr><td>Nagłówek III</td><td>###</td><td>^^^^^</td></tr>
+	<tr><td>Nagłówek IV</td><td>####</td><td>++++</td></tr>
+	<tr><td>Numerowanie</td><td>1.punkt pierwszy</td><td>.punkt pierwszy</td></tr>
+	<tr><td>Punktory</td><td>-punkt (-,+ lub *)</td><td>-punkt</td></tr>
+	<tr><td>HIPERŁĄCZE</td><td>[tekst]:http://www.webpage.com)</td><td>http://webpage.com</td></tr>
+	<tr><td>HIPERŁĄCZE z podgłądem</td><td>[tekst]:http://www.webpage.com "opis")</td><td>http://webpage.com [opis]</td></tr>
+	<tr><td>HIPERŁĄCZE z przypisem</td><td>tekst[1] [1]:http://www.webpage.com</td><td>brak</td></tr>
+	<tr><td>BLOKI PROGRAMÓW</td><td>```kod programu```</td><td>[source,język_programowania] ------- góra kod dół ------</td></tr>
+</table>
+</body>
+</html>
