@@ -1,6 +1,6 @@
 ## Projekt na zaliczenie
 
-==================
+==
 
 [Program telewizyjny]
 
