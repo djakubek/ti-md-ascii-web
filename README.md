@@ -1,15 +1,5 @@
-## Projekt na zaliczenie
-
+Projekt na zaliczenie
 ==
+Wszystkie potrzebne pliki umieszczone powyżej, czyli:
 
-[Program telewizyjny]
-
-
-
-
-
-
-
-
-```
-[Program telewizyjny]:https://github.com/kassszub/ti-md-ascii-web/program_tvp1.asc
+Program telewizyjny w ASCIDOC pod nazwą pliku --> program_tvp1.asc
