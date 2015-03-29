@@ -2,9 +2,9 @@ Projekt na zaliczenie
 ==
 Wszystkie potrzebne pliki umieszczone powyżej, czyli:
 
-Program telewizyjny w ASCIDOC pod nazwą pliku --> [program_tvp1.asc]
+Program telewizyjny w ASCIIDOC pod nazwą pliku --> [program_tvp1.asc]
 
-
+Tabelka porównująca znacznki w Markdown i ASCIIDOC --> [markdown_vs_asciidoc.asc]
 
 
 
@@ -13,3 +13,4 @@ Program telewizyjny w ASCIDOC pod nazwą pliku --> [program_tvp1.asc]
 
 
 [program_tvp1.asc]:https://github.com/kassszub/ti-md-ascii-web/blob/master/program_tvp1.asc
+[markdown_vs_asciidoc.asc]:https://github.com/kassszub/ti-md-ascii-web/blob/master/markdown_vs_asciidoc.asc
